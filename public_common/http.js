@@ -30,6 +30,7 @@ const get = function(option){
 		uni.request(option)
 	})
 }
+//update test
 module.exports = {
 	post,
 	get
